@@ -1,1 +1,2 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jtomkiewicz&show_icons=true&theme=onedark)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jtomkiewicz)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jtomkiewicz)]
