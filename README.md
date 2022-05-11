@@ -1,6 +1,6 @@
 # About me :sunglasses:
 
-4th year Computer science student that loves creating websites and wants to become a master at single-page applications.
+4th year Computer science student that loves creating websites and wants to become a master as a fullstack developer.
 
 You can find me on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://linkedin.com/in/jtomkiewicz)
 
