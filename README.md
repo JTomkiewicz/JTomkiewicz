@@ -1,6 +1,6 @@
 # About me :sunglasses:
 
-I am a 4th-year `Computer science student on WUT`, writing mainly in JavaScript and Python. I love creating frontend & backend applications and want to become a master as a `full-stack engineer`.
+I am a 4th-year `Computer science student on Warsaw University of Technology`, writing mainly in JavaScript and Python. I love creating frontend & backend applications and want to become a master as a `full-stack engineer`.
 
 Privately, I am also interested in `work methodology` - how to work quickly and effectively.
 
