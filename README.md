@@ -2,6 +2,8 @@
 
 I am a 4th-year `Computer science student on WUT` currently in love with JavaScript and Python. I love creating frontend & backend applications and want to become a master as a `full-stack engineer`.
 
+Privately, I am also interested in `work methodology` - how to work quickly and effectively.
+
 You can find me on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://linkedin.com/in/jtomkiewicz)
 
 
