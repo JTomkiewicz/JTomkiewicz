@@ -1,8 +1,8 @@
 # About me :sunglasses:
 
-I am a 4th-year `Computer science student on Warsaw University of Technology`, writing mainly in JavaScript and Python. I love creating frontend & backend applications and want to become a master as a `full-stack engineer`.
+I am a Warsaw University of Technology CS graduate, writing mainly in JavaScript and Python. I love creating frontend & backend applications and want to become a master as a full-stack engineer. Currently, I am studying project management at Kozminski University.
 
-Privately, I am also interested in `work methodology` - how to work quickly and effectively.
+Privately, I am also interested in work methodology - how to work quickly and effectively.
 
 You can find me on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://linkedin.com/in/jtomkiewicz)
 
