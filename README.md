@@ -52,7 +52,7 @@ Started as a Full-stack Developer and successfully transitioned into DevOps engi
 ## Work Experience
 
 ### DevOps Engineer | Accenture / PKO BP
-**January 2023 - Present** (2 years)  
+**January 2023 - Present** (>2 years)  
 Warsaw, Poland
 
 Contributing to the largest re-platforming project in Central-Eastern Europe:
