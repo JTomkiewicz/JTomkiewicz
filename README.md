@@ -4,7 +4,6 @@
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jtomkiewicz)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jtomkiewicz)
-[![Quick Start](https://img.shields.io/badge/Quick_Start-00ADD8?style=for-the-badge&logo=rocket&logoColor=white)](./QUICKSTART.md)
 
 </div>
 
@@ -90,56 +89,6 @@ Warsaw, Poland
   *Specialization: Computer Systems and Networks*
   - Focused on software engineering, database design, and network technologies
   - Thesis: Web application for ALICE data visualization (React.js, Three.js, Node.js/Express.js, Socket.IO)
-
----
-
-## 📚 Documentation
-
-Comprehensive guides and technical reference materials:
-
-- **[Complete Documentation Index](./docs/)** - Architecture diagrams, skills matrix, and guides
-- **[Architecture Diagrams](./docs/diagrams/)** - Visual system designs and workflows
-- **[Skills Matrix](./docs/SKILLS_MATRIX.md)** - Detailed technical proficiency overview
-- **[Contributing Guide](./CONTRIBUTING.md)** - How to contribute to this repository
-- **[Code of Conduct](./CODE_OF_CONDUCT.md)** - Community guidelines
-
----
-
-## Featured Projects & Code Examples
-
-Explore production-ready examples demonstrating DevOps best practices:
-
-### 🏗️ Infrastructure as Code
-- **[Azure AKS with Terraform](./examples/terraform/azure-aks-cluster)** - Production-ready AKS cluster deployment with best practices
-  - Multi-node pool configuration
-  - Azure CNI networking with Network Policies
-  - Log Analytics and Azure Monitor integration
-  - Azure Container Registry with managed identity
-
-### ☸️ Kubernetes Deployments
-- **[Microservice Deployment](./examples/kubernetes/microservice-deployment)** - Complete K8s manifest set with security hardening
-  - Production-ready configurations with health checks
-  - Horizontal Pod Autoscaler (HPA) for dynamic scaling
-  - Network Policies for security
-  - RBAC and Service Accounts
-  - Ingress with TLS support
-
-### 🐳 Docker Best Practices
-- **[Multi-Stage Docker Build](./examples/docker/nodejs-app)** - Optimized containerization
-  - Multi-stage builds for minimal image size
-  - Security hardening (non-root user, Alpine base)
-  - Health checks and proper signal handling
-  - Docker Compose for local development
-
-### 🔄 CI/CD Pipelines
-- **[Azure DevOps Pipelines](./examples/azure-devops-pipelines/)** - Enterprise-grade YAML pipelines
-  - Docker build and push to ACR
-  - Terraform infrastructure automation
-  - Multi-stage deployments with approval gates
-- **[GitHub Actions Workflows](./.github/workflows/)** - Modern CI/CD workflows
-  - Automated security scanning
-  - Container vulnerability detection
-  - IaC validation and linting
 
 ---
 
