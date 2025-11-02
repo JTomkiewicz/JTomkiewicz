@@ -24,12 +24,16 @@ Started as a Full-stack Developer and successfully transitioned into DevOps engi
 ### Cloud Platforms & Infrastructure
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 
 ### Containerization & Orchestration
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
 
 ### CI/CD & Automation
 ![Azure Pipelines](https://img.shields.io/badge/Azure_Pipelines-2560E0?style=flat-square&logo=azure-pipelines&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=white)
 
 ### Programming & Scripting
@@ -93,13 +97,22 @@ Warsaw, Poland
 ```yaml
 DevOps_Skills:
   - Azure DevOps CI/CD Pipelines (Classic & YAML)
-  - Infrastructure as Code & Automation
+  - Infrastructure as Code (Terraform, ARM Templates)
+  - Kubernetes & Container Orchestration
   - Windows & Linux Server Management
   - Core Banking System Implementation
   - Microservices Development & Deployment
   - API Development & Integration
-  - Container Technologies (Docker)
+  - Container Technologies (Docker, AKS, ACR)
   - Database Management (PostgreSQL)
+  
+Cloud_&_Infrastructure:
+  - Azure Cloud Platform (Compute, Networking, Storage)
+  - Azure Kubernetes Service (AKS)
+  - Azure Container Registry (ACR)
+  - Terraform Infrastructure as Code
+  - Virtual Networks & Network Security
+  - Azure Monitor & Log Analytics
   
 Soft_Skills:
   - International Team Collaboration
