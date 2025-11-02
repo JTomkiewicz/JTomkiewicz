@@ -4,6 +4,7 @@
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jtomkiewicz)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jtomkiewicz)
+[![Quick Start](https://img.shields.io/badge/Quick_Start-00ADD8?style=for-the-badge&logo=rocket&logoColor=white)](./QUICKSTART.md)
 
 </div>
 
@@ -89,6 +90,18 @@ Warsaw, Poland
   *Specialization: Computer Systems and Networks*
   - Focused on software engineering, database design, and network technologies
   - Thesis: Web application for ALICE data visualization (React.js, Three.js, Node.js/Express.js, Socket.IO)
+
+---
+
+## 📚 Documentation
+
+Comprehensive guides and technical reference materials:
+
+- **[Complete Documentation Index](./docs/)** - Architecture diagrams, skills matrix, and guides
+- **[Architecture Diagrams](./docs/diagrams/)** - Visual system designs and workflows
+- **[Skills Matrix](./docs/SKILLS_MATRIX.md)** - Detailed technical proficiency overview
+- **[Contributing Guide](./CONTRIBUTING.md)** - How to contribute to this repository
+- **[Code of Conduct](./CODE_OF_CONDUCT.md)** - Community guidelines
 
 ---
 
