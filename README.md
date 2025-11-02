@@ -24,12 +24,16 @@ Started as a Full-stack Developer and successfully transitioned into DevOps engi
 ### Cloud Platforms & Infrastructure
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 
 ### Containerization & Orchestration
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
 
 ### CI/CD & Automation
 ![Azure Pipelines](https://img.shields.io/badge/Azure_Pipelines-2560E0?style=flat-square&logo=azure-pipelines&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=white)
 
 ### Programming & Scripting
@@ -88,18 +92,65 @@ Warsaw, Poland
 
 ---
 
+## Featured Projects & Code Examples
+
+Explore production-ready examples demonstrating DevOps best practices:
+
+### 🏗️ Infrastructure as Code
+- **[Azure AKS with Terraform](./examples/terraform/azure-aks-cluster)** - Production-ready AKS cluster deployment with best practices
+  - Multi-node pool configuration
+  - Azure CNI networking with Network Policies
+  - Log Analytics and Azure Monitor integration
+  - Azure Container Registry with managed identity
+
+### ☸️ Kubernetes Deployments
+- **[Microservice Deployment](./examples/kubernetes/microservice-deployment)** - Complete K8s manifest set with security hardening
+  - Production-ready configurations with health checks
+  - Horizontal Pod Autoscaler (HPA) for dynamic scaling
+  - Network Policies for security
+  - RBAC and Service Accounts
+  - Ingress with TLS support
+
+### 🐳 Docker Best Practices
+- **[Multi-Stage Docker Build](./examples/docker/nodejs-app)** - Optimized containerization
+  - Multi-stage builds for minimal image size
+  - Security hardening (non-root user, Alpine base)
+  - Health checks and proper signal handling
+  - Docker Compose for local development
+
+### 🔄 CI/CD Pipelines
+- **[Azure DevOps Pipelines](./examples/azure-devops-pipelines/)** - Enterprise-grade YAML pipelines
+  - Docker build and push to ACR
+  - Terraform infrastructure automation
+  - Multi-stage deployments with approval gates
+- **[GitHub Actions Workflows](./.github/workflows/)** - Modern CI/CD workflows
+  - Automated security scanning
+  - Container vulnerability detection
+  - IaC validation and linting
+
+---
+
 ## Key Competencies
 
 ```yaml
 DevOps_Skills:
   - Azure DevOps CI/CD Pipelines (Classic & YAML)
-  - Infrastructure as Code & Automation
+  - Infrastructure as Code (Terraform, ARM Templates)
+  - Kubernetes & Container Orchestration
   - Windows & Linux Server Management
   - Core Banking System Implementation
   - Microservices Development & Deployment
   - API Development & Integration
-  - Container Technologies (Docker)
+  - Container Technologies (Docker, AKS, ACR)
   - Database Management (PostgreSQL)
+  
+Cloud_&_Infrastructure:
+  - Azure Cloud Platform (Compute, Networking, Storage)
+  - Azure Kubernetes Service (AKS)
+  - Azure Container Registry (ACR)
+  - Terraform Infrastructure as Code
+  - Virtual Networks & Network Security
+  - Azure Monitor & Log Analytics
   
 Soft_Skills:
   - International Team Collaboration
