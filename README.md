@@ -1,4 +1,4 @@
-# 👨‍💻 DevOps Engineer | Cloud Infrastructure Specialist
+# DevOps Engineer | Cloud Infrastructure Specialist
 
 <div align="center">
   
@@ -9,7 +9,7 @@
 
 ---
 
-## 🚀 Professional Summary
+## Professional Summary
 
 Results-driven DevOps Engineer with expertise in automating, optimizing, and streamlining deployment processes across cloud platforms. Passionate about building robust CI/CD pipelines, implementing Infrastructure as Code, and fostering a culture of continuous improvement. Computer Science graduate from Warsaw University of Technology, currently enhancing leadership skills through Project Management studies at Kozminski University.
 
@@ -17,54 +17,54 @@ Results-driven DevOps Engineer with expertise in automating, optimizing, and str
 
 ---
 
-## 💼 Technical Expertise
+## Technical Expertise
 
-### ☁️ Cloud Platforms & Infrastructure
+### Cloud Platforms & Infrastructure
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
 
-### 🐳 Containerization & Orchestration
+### Containerization & Orchestration
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
 ![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-### 🔄 CI/CD & Automation
+### CI/CD & Automation
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FCA121?style=flat-square&logo=gitlab&logoColor=white)
 ![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=flat-square&logo=circleci&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
 
-### 🏗️ Infrastructure as Code
+### Infrastructure as Code
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
 ![CloudFormation](https://img.shields.io/badge/CloudFormation-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Pulumi](https://img.shields.io/badge/Pulumi-8A3391?style=flat-square&logo=pulumi&logoColor=white)
 
-### 📊 Monitoring & Observability
+### Monitoring & Observability
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=flat-square&logo=elastic&logoColor=white)
 ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)
 ![New Relic](https://img.shields.io/badge/New_Relic-008C99?style=flat-square&logo=new-relic&logoColor=white)
 
-### 💻 Programming & Scripting
+### Programming & Scripting
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=white)
 
-### 🗄️ Databases & Message Queues
+### Databases & Message Queues
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
 
-### 🔐 Security & Best Practices
+### Security & Best Practices
 - **Security Scanning:** Trivy, Snyk, SonarQube, OWASP ZAP
 - **Secret Management:** HashiCorp Vault, AWS Secrets Manager, Azure Key Vault
 - **Version Control:** Git, GitHub, GitLab, Bitbucket
@@ -72,24 +72,17 @@ Results-driven DevOps Engineer with expertise in automating, optimizing, and str
 
 ---
 
-## 🎓 Education & Certifications
+## Education
 
-### 🎓 Education
 - **Master of Science in Project Management** *(In Progress)*  
   Kozminski University, Warsaw, Poland
   
 - **Bachelor of Science in Computer Science**  
   Warsaw University of Technology, Warsaw, Poland
 
-### 📜 Professional Certifications
-- AWS Certified Solutions Architect
-- Kubernetes Administrator (CKA)
-- HashiCorp Certified: Terraform Associate
-- Docker Certified Associate
-
 ---
 
-## 🏆 Key Competencies
+## Key Competencies
 
 ```yaml
 DevOps_Skills:
@@ -115,7 +108,7 @@ Soft_Skills:
 
 ---
 
-## 📈 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -129,17 +122,17 @@ Soft_Skills:
 
 ---
 
-## 🌟 Professional Highlights
+## Professional Highlights
 
-- ✅ **Automated Deployments:** Reduced deployment time by 80% through CI/CD pipeline optimization
-- ✅ **Infrastructure Automation:** Managed infrastructure for 100+ microservices using Kubernetes
-- ✅ **Cost Optimization:** Achieved 40% cloud cost reduction through infrastructure optimization
-- ✅ **High Availability:** Maintained 99.9% uptime through robust monitoring and incident response
-- ✅ **Team Enablement:** Mentored developers on DevOps best practices and tooling
+- **Automated Deployments:** Reduced deployment time by 80% through CI/CD pipeline optimization
+- **Infrastructure Automation:** Managed infrastructure for 100+ microservices using Kubernetes
+- **Cost Optimization:** Achieved 40% cloud cost reduction through infrastructure optimization
+- **High Availability:** Maintained 99.9% uptime through robust monitoring and incident response
+- **Team Enablement:** Mentored developers on DevOps best practices and tooling
 
 ---
 
-## 🤝 Let's Connect!
+## Let's Connect!
 
 I'm passionate about DevOps, cloud technologies, and automation. Always open to discussing innovative solutions, collaboration opportunities, and sharing knowledge with the community.
 
@@ -155,7 +148,7 @@ I'm passionate about DevOps, cloud technologies, and automation. Always open to 
 
 <div align="center">
   
-### 💡 *"Automate everything, monitor constantly, improve continuously"*
+*"Automate everything, monitor constantly, improve continuously"*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=jtomkiewicz&color=blueviolet&style=flat-square)
 
