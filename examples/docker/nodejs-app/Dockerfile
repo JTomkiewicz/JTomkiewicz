@@ -81,6 +81,9 @@ USER nodejs
 EXPOSE ${PORT}
 
 # Health check
+# Note: For production, consider installing curl or wget for more reliable health checks
+# Example with wget: RUN apk add --no-cache wget
+# Then use: CMD wget --no-verbose --tries=1 --spider http://localhost:${PORT}/health || exit 1
 HEALTHCHECK --interval=30s --timeout=3s --start-period=40s --retries=3 \
     CMD node -e "require('http').get('http://localhost:${PORT}/health', (r) => {process.exit(r.statusCode === 200 ? 0 : 1)})"
 

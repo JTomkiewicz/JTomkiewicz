@@ -22,9 +22,9 @@ variable "project_name" {
 }
 
 variable "kubernetes_version" {
-  description = "Kubernetes version for AKS cluster"
+  description = "Kubernetes version for AKS cluster (update regularly to match supported versions)"
   type        = string
-  default     = "1.28"
+  default     = "1.29"
 }
 
 variable "system_node_count" {

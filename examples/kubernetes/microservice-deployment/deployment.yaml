@@ -40,7 +40,7 @@ spec:
       
       containers:
         - name: app
-          image: nginx:1.25-alpine  # Replace with your application image
+          image: your-registry.azurecr.io/your-app:latest  # Replace with your application image
           imagePullPolicy: IfNotPresent
           
           ports:

@@ -156,6 +156,13 @@ resource "azurerm_kubernetes_cluster_node_pool" "user" {
   tags = local.common_tags
 }
 
+# Random suffix for ACR (globally unique name requirement)
+resource "random_string" "acr_suffix" {
+  length  = 4
+  special = false
+  upper   = false
+}
+
 # Azure Container Registry
 resource "azurerm_container_registry" "main" {
   name                = "acr${replace(local.resource_prefix, "-", "")}${random_string.acr_suffix.result}"
@@ -165,13 +172,6 @@ resource "azurerm_container_registry" "main" {
   admin_enabled       = false
 
   tags = local.common_tags
-}
-
-# Random suffix for ACR (globally unique name requirement)
-resource "random_string" "acr_suffix" {
-  length  = 4
-  special = false
-  upper   = false
 }
 
 # Role assignment for AKS to pull from ACR

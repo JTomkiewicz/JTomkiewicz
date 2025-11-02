@@ -18,7 +18,7 @@ pool:
 variables:
   - group: terraform-variables
   - name: terraformVersion
-    value: '1.6.0'
+    value: '1.9.0'  # Update regularly to latest stable version
   - name: workingDirectory
     value: '$(System.DefaultWorkingDirectory)/terraform'
   - name: backendResourceGroup
